@@ -15,6 +15,6 @@ git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
 
-sudo pacman -S --noconfirm sway wayland xorg-xwayland alacritty rofi firefox nemo pulseaudio pulseaudio-alsa alsa-utils pulseaudio-alsa pavucontrol
+sudo pacman -S --noconfirm sway wayland xorg-xwayland alacritty rofi firefox nemo pulseaudio pulseaudio-alsa alsa-utils pulseaudio-alsa pavucontrol neofetch
 
 mkdir -p ~/.config/sway
