@@ -9,3 +9,4 @@ In this repository you will find plain text configuration files for this setup:
 - Bar: Waybar
 - Shell: Zsh 
 - Fetch: Neofetch
+- Login manager: tty + Zshrc
