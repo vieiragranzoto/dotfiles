@@ -1,3 +1,4 @@
+PROMPT="[%n:%d] ->"
 # Lines configured by zsh-newuser-install
 HISTFILE=~/.config/zsh/.histfile
 HISTSIZE=1000
